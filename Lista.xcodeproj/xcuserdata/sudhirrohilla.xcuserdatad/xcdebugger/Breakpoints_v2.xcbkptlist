@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lista/Extra/Network Engine/AFNetworking/AFNetworking/AFURLRequestSerialization.m"
+            timestampString = "575373898.4192539"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1172"
+            endingLineNumber = "1172"
+            landmarkName = "-transitionToNextPhase"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lista/Extra/Network Engine/AFNetworking/AFNetworking/AFHTTPSessionManager.m"
+            timestampString = "576845372.26878"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "279"
+            endingLineNumber = "279"
+            landmarkName = "-dataTaskWithHTTPMethod:URLString:parameters:uploadProgress:downloadProgress:success:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AFHTTPSessionManager dataTaskWithHTTPMethod:URLString:parameters:uploadProgress:downloadProgress:success:failure:]"
+                  moduleName = "Lista"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudhirrohilla/Documents/Lista/Lista/Extra/Network%20Engine/AFNetworking/AFNetworking/AFHTTPSessionManager.m"
+                  timestampString = "577887331.60401"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "654">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__116-[AFHTTPSessionManager dataTaskWithHTTPMethod:URLString:parameters:uploadProgress:downloadProgress:success:failure:]_block_invoke"
+                  moduleName = "Lista"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudhirrohilla/Documents/Lista/Lista/Extra/Network%20Engine/AFNetworking/AFNetworking/AFHTTPSessionManager.m"
+                  timestampString = "577887331.606089"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.122"
+                  moduleName = "Lista"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudhirrohilla/Documents/Lista/Lista/Extra/Network%20Engine/AFNetworking/AFNetworking/AFHTTPSessionManager.m"
+                  timestampString = "577887331.607669"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lista/Extra/Network Engine/AFNetworking/AFNetworking/AFHTTPSessionManager.m"
+            timestampString = "576845372.2688349"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "-POST:parameters:constructingBodyWithBlock:progress:success:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AFHTTPSessionManager POST:parameters:constructingBodyWithBlock:progress:success:failure:]"
+                  moduleName = "Lista"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudhirrohilla/Documents/Lista/Lista/Extra/Network%20Engine/AFNetworking/AFNetworking/AFHTTPSessionManager.m"
+                  timestampString = "577887331.612995"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "671">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__91-[AFHTTPSessionManager POST:parameters:constructingBodyWithBlock:progress:success:failure:]_block_invoke"
+                  moduleName = "Lista"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudhirrohilla/Documents/Lista/Lista/Extra/Network%20Engine/AFNetworking/AFNetworking/AFHTTPSessionManager.m"
+                  timestampString = "577887331.614632"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.103"
+                  moduleName = "Lista"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudhirrohilla/Documents/Lista/Lista/Extra/Network%20Engine/AFNetworking/AFNetworking/AFHTTPSessionManager.m"
+                  timestampString = "577887331.616294"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
